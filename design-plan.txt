@@ -1,0 +1,36 @@
+Project Design Plan - photography Portfolio
+Theme:
+This website is a personal photography portfolio that showcases my favorite photos, a short biography, and a way for people to contact me.
+Sections:
+1. Header:
+- Title of the site (Pixel Poetry )
+- A short tagline sentence
+2. Introduction Section:
+- A short sentences about what photography means to me
+3. Biography Section:
+- A picture of me 
+- A short bio describing who I am and why I love photography
+4. Gallery section:
+- A list of my favourite photos
+- Each photo will be added inside the images folder and displayed with '<img>' tags
+5. Contact Section:
+   - A form where visitors can submit their name, email, and message
+6. Footer:
+   - My name and copyright
+Design Elements:
+- Background color will be light gray
+- Font: clean and modern like Arial
+- Spacing between sections for neatness
+- Images will be resized to look good on all screens
+- Buttons and form fields styled for better user experience
+Responsiveness:
+This will be a basic responsive layout (not full mobile support yet), but will look okay on smaller screens.
+Folder Structure:
+- index.html → main webpage
+- style.css → all styling rules
+- images/ → contains all the photo files
+- README.md → GitHub documentation
+- design-plan.txt → this file
+Tools:
+- Code Editor: Visual Studio Code
+- GitHub: for version control and hosting
