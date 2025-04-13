@@ -84,13 +84,7 @@ button :hover {
 footer {
     text-align: center;
     padding: 20px;
-    background-color: #111;
-    color: white;
-}
-footer {
     background-color: #f0f0f0;
-    text-align: center;
-    padding: 1em;
     font-size: 0.9em;
     color: #333;
 }
